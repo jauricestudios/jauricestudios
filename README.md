@@ -7,7 +7,7 @@ Mathematics Student seeking impactful insights.
 - 🔭 Currently learning  
        Financial theory with Python, forcasting and time series.
   Profienct in Python, R and SQL
-Interests range from Risk management, Data Science, Machine Learning and Financial Markets.
+Interests range from Risk management, Data Science, Machine Learning and Financial Markets, Survival Analysis and Catastophe modelling
 
 _Love chess and love being inquisitive_.
 
