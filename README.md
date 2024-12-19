@@ -8,7 +8,7 @@ Mathematics Student seeking impactful insights.
      Risk Management, Financial theory with Python. 
   Profienct in Python, R and SQL.
 
-
+Love chess and love being inquisitive
 
  
 
