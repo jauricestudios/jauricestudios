@@ -6,10 +6,10 @@ Mathematics Student.
 _R, SQL, Python._
 
 - 🔭
-Econometrics 
-Statistics
-Data structures
+Econometrics. 
+Statistics.
+Data structures.
 
- 
+Commited to always learning
 
 
