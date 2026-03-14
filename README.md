@@ -1,6 +1,6 @@
 
 
-<p align="center"><i>😀Jaurice O'Connor</i></p>
+<p align="center"><i>#Jaurice O'Connor</i></p>
 
 <p align="center">
 Commodity Markets | Geopolitical Risk | Financial Research | Derivitives Pricing 
