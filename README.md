@@ -1,6 +1,16 @@
-<h1 align="center">Your Title Here</h1>
+
+<h1 align="center">Commodity Market Research</h1>
 
 <p align="center"><i>Jaurice O'Connor</i></p>
+
+<p align="center">
+Commodity markets • Geopolitics • Risk Analysis
+</p>
+
+<p align="center">
+<a href="LINKEDIN">LinkedIn</a> • 
+<a href="GITHUB">Projects</a>
+</p>
 
 😀 Mathematics student interested in **commodity markets, macroeconomic cycles, deriviatives pricing and supply–demand dynamics**.
 
