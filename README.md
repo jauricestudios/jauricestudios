@@ -10,7 +10,7 @@ Commodity Markets | Geopolitical Risk | Financial Research | Derivitives Pricing
 <a href="https://www.linkedin.com/in/jaurice-o-814a79373/">LinkedIn</a>
 </p>
 
- 📏 Mathematics student focused on commodity markets, macro cycles, derivatives pricing and supply–demand dynamics. My work analyses commodity markets through economic factors, market structure anlsysis, and data driven research.
+ 📏 Final year Mathematics student focused on commodity markets, macro cycles, derivatives pricing and supply–demand dynamics. My work analyses commodity markets through economic factors, market structure anlsysis, and data driven research.
 
 Current Academic dissertation: Pricing Asian Options using Monte Carlo methods.
 
