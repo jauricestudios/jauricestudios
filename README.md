@@ -3,40 +3,23 @@
 <p align="center"><i>😀Jaurice O'Connor</i></p>
 
 <p align="center">
-Commodity markets • Geopolitics • Risk Analysis
+Commodity Markets | Geopolitical Risk | Financial Research | Derivitives Pricing 
 </p>
 
 <p align="center">
-<a href="LINKEDIN">LinkedIn</a> • 
-<a href="GITHUB">Projects</a>
+<a href="https://www.linkedin.com/in/jaurice-o-814a79373/">LinkedIn</a>
 </p>
 
- 📏 Mathematics student interested in **commodity markets, macroeconomic cycles, deriviatives pricing and supply–demand dynamics**.
+ 📏 I am a Mathematics student interested in **commodity markets, macroeconomic cycles, deriviatives pricing and supply–demand dynamics**. My work focuses on analysing global commodity markets using economic frameworks, market structure analysis, and data-driven research. I seek to make Github a research notebook and portfolio documenting these projects.
 
- My work focuses on analysing global commodity markets using economic frameworks, market structure analysis, and data-driven research.
-
-My GitHub is a **research notebook and portfolio** documenting these projects.
-
-My current Academic dissertation: Pricing Asian Options using Monte Carlo methods/
+My current Academic dissertation: Pricing Asian Options using Monte Carlo methods.
 
 Research Interests:
-
 • Commodity supply–demand dynamics  
 • Inventory cycles and storage economics  
 • Energy market structure and futures curves  
 • Agricultural production shocks and weather risk  
-• Industrial metals and global economic growth 
-
- 
- AI and Commodity Market Research
-
-I am interested in how modern AI tools and large language models can support commodity market research and intelligence gathering.
-
-Current areas of exploration include:
-
-• accelerating data collection and analysis from market reports and economic releases  
-• structuring large volumes of macroeconomic and commodity market data  
-• building agentic research workflows to assist market monitoring  
+• Industrial metals and global economic growth  
 
 I am currently developing a **Geopolitical Commodity Risk Monitor**, a signal-tracking dashboard designed to identify potential disruptions to global commodity flows.
 
