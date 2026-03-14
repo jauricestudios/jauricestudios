@@ -9,18 +9,20 @@ Commodity Markets | Geopolitical Risk | Financial Research | Derivatives Pricing
 <a href="https://www.linkedin.com/in/jaurice-o-814a79373/">LinkedIn</a>
 </p>
 
- 📏 Final year Mathematics student focused on commodity markets, macro cycles, derivatives pricing and supply–demand dynamics. My work analyses commodity markets through economic factors, market structure anlsysis, and data driven research.
+ 📏 Final-year Mathematics student focused on commodity markets, macro cycles, derivatives pricing, and supply–demand dynamics.
+
+My work analyses commodity markets through economic frameworks, market structure analysis, and data-driven research.
 
 Current Academic dissertation: Pricing Asian Options using Monte Carlo methods.
 
-My current esearch Interests are :
+My current research Interests are :
 • Commodity supply–demand dynamics  
 • Inventory cycles and storage economics  
 • Energy market structure and futures curves  
 • Agricultural production shocks and weather risk  
 • Industrial metals and global economic growth  
 
-Current Project: Developing a **signal-tracking dashboard** designed to identify potential disruptions to global commodity flows.
+## Current Project: Developing a **signal-tracking dashboard** designed to identify potential disruptions to global commodity flows.
 
  The system tracks indicators such as:
 
@@ -29,16 +31,12 @@ Current Project: Developing a **signal-tracking dashboard** designed to identify
 - Freight and logistics indicators
 - Inventory and supply signals across major commodities
 
-Goal: explore how **automated workflows and AI tools can strengthen commodity research** through improved data collection and signal detection.
-
-• Currently coding in python and on my way to learn C++.
+Goal: explore how automated workflows and AI tools can strengthen commodity research through improved data collection, signal detection, and market monitoring.
 
 Outside of markets I enjoy sport and competition-based activities.
-• ⚽ Football  
-• ♟️ Chess 
-• 🚴‍♂️Cycling 
-
+• Football  
+• Chess 
+• Cycling 
 
 ## Connect
-
-LinkedIn: https://www.linkedin.com/in/jaurice-o-814a79373/Jaurice O'connor 
+[LinkedIn](https://www.linkedin.com/in/jaurice-o-814a79373/)
