@@ -10,7 +10,7 @@ Commodity Markets | Geopolitical Risk | Financial Research | Derivitives Pricing
 <a href="https://www.linkedin.com/in/jaurice-o-814a79373/">LinkedIn</a>
 </p>
 
- 📏 I am a Mathematics student interested in **commodity markets, macroeconomic cycles, deriviatives pricing and supply–demand dynamics**. My work focuses on analysing global commodity markets using economic frameworks, market structure analysis, and data-driven research. I seek to make Github a research notebook and portfolio documenting these projects.
+ 📏 I am a Mathematics student interested in commodity markets, macroeconomic cycles, derivatives pricing and supply–demand dynamics.
 
 My current Academic dissertation: Pricing Asian Options using Monte Carlo methods.
 
