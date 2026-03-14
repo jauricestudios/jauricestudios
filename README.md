@@ -1,4 +1,6 @@
-# Jaurice O'Connor
+<h1 align="center">Your Title Here</h1>
+
+<p align="center"><i>Jaurice O'Connor</i></p>
 
 😀 Mathematics student interested in **commodity markets, macroeconomic cycles, deriviatives pricing and supply–demand dynamics**.
 
@@ -8,14 +10,16 @@ My GitHub is a **research notebook and portfolio** documenting these projects.
 
 My current Academic dissertation: Pricing Asian Options using Monte Carlo methods/
 
-##  Research Interests
+Research Interests:
+
 • Commodity supply–demand dynamics  
 • Inventory cycles and storage economics  
 • Energy market structure and futures curves  
 • Agricultural production shocks and weather risk  
 • Industrial metals and global economic growth 
 
-## AI and Commodity Market Research
+ 
+ AI and Commodity Market Research
 
 I am interested in how modern AI tools and large language models can support commodity market research and intelligence gathering.
 
