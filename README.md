@@ -1,51 +1,54 @@
 # Jaurice O'Connor
 
-Mathematics student interested in **global commodity markets, macro cycles, and supply–demand analysis**.
+😀 Mathematics student interested in **commodity markets, macroeconomic cycles, deriviatives pricing and supply–demand dynamics**.
 
-My work focuses on analysing commodity markets using economic frameworks and data analysis.
+ My work focuses on analysing global commodity markets using economic frameworks, market structure analysis, and data-driven research.
 
----
+My GitHub is a **research notebook and portfolio** documenting these projects.
 
-## Research Interests
+My current Academic dissertation: Pricing Asian Options using Monte Carlo methods/
 
+##  Research Interests
 • Commodity supply–demand dynamics  
 • Inventory cycles and storage economics  
-• Energy market structure  
-• Agricultural production shocks  
-• Industrial metals and global growth  
+• Energy market structure and futures curves  
+• Agricultural production shocks and weather risk  
+• Industrial metals and global economic growth 
 
----
+## AI and Commodity Market Research
 
-## Current Research
+I am interested in how modern AI tools and large language models can support commodity market research and intelligence gathering.
 
-Global Wheat Supply Shocks and Futures Price Dynamics  
-Oil Inventories and the Structure of Crude Oil Futures  
-Copper Demand and Global Industrial Cycles  
-Commodity Supercycles and Global Growth  
+Current areas of exploration include:
 
----
+• accelerating data collection and analysis from market reports and economic releases  
+• structuring large volumes of macroeconomic and commodity market data  
+• building agentic research workflows to assist market monitoring  
 
-## Tools
+I am currently developing a **Geopolitical Commodity Risk Monitor**, a signal-tracking dashboard designed to identify potential disruptions to global commodity flows.
 
-Python  
-Pandas  
-Data visualisation  
-Excel modelling  
+ The project tracks indicators such as:
 
----
+• shipping activity through strategic chokepoints (e.g. Strait of Hormuz)  
+• futures market volatility and spreads  
+• freight rates and logistics indicators  
+• inventory and supply signals across key commodities  
 
-## Data Sources
+The goal is to explore how automated workflows and AI tools can strenghthen traditional commodity research by improving **data collection, signal detection, and market awareness**.
 
-USDA  
-EIA  
-World Bank  
-UN Comtrade  
-IMF  
 
----
+• Currently coding in python and on my way to learn C++.
+• Books i 
+• The World for Sale – Javier Blas  (book hyperlink)
+• Energy and Civilization – Vaclav Smil (book hyperlink) 
+• Hot Commodities – Jim Rogers (book hyperlink)
 
-## Currently Reading
+## Outside of Researh
+Outside of markets I enjoy sport and competition-based activities.
+• ⚽ Football  
+• ♟️ Chess  
 
-The World for Sale – Javier Blas  
-Energy and Civilization – Vaclav Smil  
-Hot Commodities – Jim Rogers
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/jaurice-o-814a79373/Jaurice O'connor 
+GitHub: https://github.com/jauricestudios
