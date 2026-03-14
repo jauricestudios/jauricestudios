@@ -1,9 +1,8 @@
 
 
-<p align="center"><i>#Jaurice O'Connor</i></p>
-
+<h1 align="center">Jaurice O'Connor</h1>
 <p align="center">
-Commodity Markets | Geopolitical Risk | Financial Research | Derivitives Pricing 
+Commodity Markets | Geopolitical Risk | Financial Research | Derivatives Pricing
 </p>
 
 <p align="center">
