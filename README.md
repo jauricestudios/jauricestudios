@@ -1,7 +1,6 @@
 
-<h1 align="center">Commodity Market Research</h1>
 
-<p align="center"><i>Jaurice O'Connor</i></p>
+<p align="center"><i>😀Jaurice O'Connor</i></p>
 
 <p align="center">
 Commodity markets • Geopolitics • Risk Analysis
@@ -12,7 +11,7 @@ Commodity markets • Geopolitics • Risk Analysis
 <a href="GITHUB">Projects</a>
 </p>
 
-😀 Mathematics student interested in **commodity markets, macroeconomic cycles, deriviatives pricing and supply–demand dynamics**.
+ 📏 Mathematics student interested in **commodity markets, macroeconomic cycles, deriviatives pricing and supply–demand dynamics**.
 
  My work focuses on analysing global commodity markets using economic frameworks, market structure analysis, and data-driven research.
 
@@ -60,7 +59,9 @@ The goal is to explore how automated workflows and AI tools can strenghthen trad
 ## Outside of Researh
 Outside of markets I enjoy sport and competition-based activities.
 • ⚽ Football  
-• ♟️ Chess  
+• ♟️ Chess 
+• 🚴‍♂️Cycling 
+
 
 ## Connect
 
