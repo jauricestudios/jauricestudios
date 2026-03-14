@@ -10,36 +10,30 @@ Commodity Markets | Geopolitical Risk | Financial Research | Derivitives Pricing
 <a href="https://www.linkedin.com/in/jaurice-o-814a79373/">LinkedIn</a>
 </p>
 
- 📏 I am a Mathematics student interested in commodity markets, macroeconomic cycles, derivatives pricing and supply–demand dynamics.
+ 📏 Mathematics student focused on commodity markets, macro cycles, derivatives pricing and supply–demand dynamics. My work analyses commodity markets through economic factors, market structure anlsysis, and data driven research.
 
-My current Academic dissertation: Pricing Asian Options using Monte Carlo methods.
+Current Academic dissertation: Pricing Asian Options using Monte Carlo methods.
 
-Research Interests:
+My current esearch Interests are :
 • Commodity supply–demand dynamics  
 • Inventory cycles and storage economics  
 • Energy market structure and futures curves  
 • Agricultural production shocks and weather risk  
 • Industrial metals and global economic growth  
 
-I am currently developing a **Geopolitical Commodity Risk Monitor**, a signal-tracking dashboard designed to identify potential disruptions to global commodity flows.
+Current Project: Developing a **signal-tracking dashboard** designed to identify potential disruptions to global commodity flows.
 
- The project tracks indicators such as:
+ The system tracks indicators such as:
 
-• shipping activity through strategic chokepoints (e.g. Strait of Hormuz)  
-• futures market volatility and spreads  
-• freight rates and logistics indicators  
-• inventory and supply signals across key commodities  
+- Shipping activity through strategic chokepoints (e.g. Strait of Hormuz)
+- Futures volatility and spreads
+- Freight and logistics indicators
+- Inventory and supply signals across major commodities
 
-The goal is to explore how automated workflows and AI tools can strenghthen traditional commodity research by improving **data collection, signal detection, and market awareness**.
-
+Goal: explore how **automated workflows and AI tools can strengthen commodity research** through improved data collection and signal detection.
 
 • Currently coding in python and on my way to learn C++.
-• Books i 
-• The World for Sale – Javier Blas  (book hyperlink)
-• Energy and Civilization – Vaclav Smil (book hyperlink) 
-• Hot Commodities – Jim Rogers (book hyperlink)
 
-## Outside of Researh
 Outside of markets I enjoy sport and competition-based activities.
 • ⚽ Football  
 • ♟️ Chess 
