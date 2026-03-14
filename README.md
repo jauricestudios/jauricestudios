@@ -43,4 +43,3 @@ Outside of markets I enjoy sport and competition-based activities.
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/jaurice-o-814a79373/Jaurice O'connor 
-GitHub: https://github.com/jauricestudios
