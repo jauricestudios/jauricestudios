@@ -9,25 +9,28 @@ Commodity Markets | Geopolitical Risk | Financial Research | Derivatives Pricing
 </p>
 
 ---
- 📏 Final-year Mathematics student focused on commodity markets, macro cycles, derivatives pricing, and supply–demand dynamics.
+  Final-year Mathematics student focused on commodity markets, macro cycles, derivatives pricing, and supply–demand dynamics.
 
 My work analyses commodity markets through economic frameworks, market structure analysis, and data-driven research.
 
 Current academic dissertation:  
 Pricing Asian Options using Monte Carlo methods.
 
-### 📓 Research Interests:
+###  Research Interests:
 • Commodity supply–demand dynamics  
 • Inventory cycles and storage economics  
 • Energy market structure and futures curves  
 • Agricultural production shocks and weather risk  
 • Industrial metals and global economic growth  
 
-### 🌏 Current Project:
+###  Current Project:
 
-#### Geopolitical Commodity Risk Monitor
+### Geopolitical Commodity Risk Monitor
 
-Developing a signal-tracking dashboard designed to identify potential disruptions to global commodity flows.
+Developing a signal-tracking dashboard to monitor geopolitical risks and potential disruptions to global commodity flows.
+
+Upcoming Research project:
+Oil Inventory Dynamics and Crude Oil Futures Structure: Analysing how crude oil inventory levels influence the shape of the WTI futures curve (contango vs backwardation).
 
 ### Outside Markets
 
