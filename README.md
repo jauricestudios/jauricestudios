@@ -1,6 +1,4 @@
-
-
-<<h1 align="center"><i>Jaurice O'Connor</i></h1>
+<h1 align="center"><i>Jaurice O'Connor</i></h1>
 
 <p align="center">
 Commodity Markets | Geopolitical Risk | Financial Research | Derivatives Pricing
@@ -10,34 +8,34 @@ Commodity Markets | Geopolitical Risk | Financial Research | Derivatives Pricing
 <a href="https://www.linkedin.com/in/jaurice-o-814a79373/">LinkedIn</a>
 </p>
 
+---
  📏 Final-year Mathematics student focused on commodity markets, macro cycles, derivatives pricing, and supply–demand dynamics.
 
 My work analyses commodity markets through economic frameworks, market structure analysis, and data-driven research.
 
-Current Academic dissertation: Pricing Asian Options using Monte Carlo methods.
+Current academic dissertation:  
+Pricing Asian Options using Monte Carlo methods.
 
-My current research Interests are :
+### Research Interests:
 • Commodity supply–demand dynamics  
 • Inventory cycles and storage economics  
 • Energy market structure and futures curves  
 • Agricultural production shocks and weather risk  
 • Industrial metals and global economic growth  
 
-## Current Project: Developing a **signal-tracking dashboard** designed to identify potential disruptions to global commodity flows.
+### Current Project:
 
- The system tracks indicators such as:
+#### Geopolitical Commodity Risk Monitor
 
-- Shipping activity through strategic chokepoints (e.g. Strait of Hormuz)
-- Futures volatility and spreads
-- Freight and logistics indicators
-- Inventory and supply signals across major commodities
+Developing a signal-tracking dashboard designed to identify potential disruptions to global commodity flows.
 
-Goal: explore how automated workflows and AI tools can strengthen commodity research through improved data collection, signal detection, and market monitoring.
+### Outside Markets
 
-Outside of markets I enjoy sport and competition-based activities.
-• Football  
-• Chess 
-• Cycling 
+Outside of markets I enjoy competition-based activities:
+
+- Football
+- Chess
+- Cycling
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/jaurice-o-814a79373/)
