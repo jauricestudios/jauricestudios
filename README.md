@@ -1,4 +1,4 @@
-<h1 align="center"><i>Jaurice O'Connor</i></h1>
+<h1 align="center"><i>Jaurice O'Connor ☘️</i></h1>
 
 <p align="center">
 Commodity Markets | Geopolitical Risk | Financial Research | Derivatives Pricing
@@ -16,14 +16,14 @@ My work analyses commodity markets through economic frameworks, market structure
 Current academic dissertation:  
 Pricing Asian Options using Monte Carlo methods.
 
-### Research Interests:
+### 📓 Research Interests:
 • Commodity supply–demand dynamics  
 • Inventory cycles and storage economics  
 • Energy market structure and futures curves  
 • Agricultural production shocks and weather risk  
 • Industrial metals and global economic growth  
 
-### Current Project:
+### 🌏 Current Project:
 
 #### Geopolitical Commodity Risk Monitor
 
