@@ -4,9 +4,7 @@
 <a href="https://www.linkedin.com/in/jaurice-o-814a79373/">LinkedIn</a>
 </p>
 
-- Football
-- Chess
-- Cycling
+Love cycling and fencing
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/jaurice-o-814a79373/)
