@@ -9,18 +9,13 @@ Mathematics graduate interested in energy markets, forecasting and risk.
 <a href="https://www.linkedin.com/in/jaurice-o-814a79373/">LinkedIn</a>
 </p>
 
-## Current work
+## What I'm working on
 
-I’m building projects around energy markets and quantitative analysis, with a focus on how physical constraints and market information show up in prices and system behaviour.
+Most of my current projects are around energy markets.
 
-Recent work includes:
+I've recently been looking at GB electricity transmission constraints, Scottish wind balancing and Norwegian gas outages around TTF price movements.
 
-- GB electricity transmission constraints and Scottish wind balancing
-- Norwegian gas outages and TTF price behaviour
-
-## Tools
-
-Python · PostgreSQL · SQL · R · Excel
+I mainly use Python, PostgreSQL and SQL for the analysis.
 
 ## Outside work
 
